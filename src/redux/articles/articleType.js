@@ -1,0 +1,2 @@
+export const CREATE_ARTICLE = 'CREATE_ARTICLE'
+export const PROCASTINATE = "PROCASTINATE"
